@@ -1,2 +1,2 @@
 # deepT
-translate and summarize text
+summarize and translate text
